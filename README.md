@@ -3,3 +3,4 @@
 #### Primeiras Receitas :ok_hand:
 
 - Arroz Branco
+- Pavê
